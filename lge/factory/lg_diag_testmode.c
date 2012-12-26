@@ -16,7 +16,7 @@
 
 #include <userDataBackUpDiag.h>
 #include <userDataBackUpTypeDef.h> 
-#include <../../kernel/arch/arm/mach-msm/smd_private.h>
+#include <../../arch/arm/mach-msm/smd_private.h>
 #include <linux/slab.h>
 
 #if defined(CONFIG_LGE_PM_CAYMAN_VZW) || defined(CONFIG_LGE_PM_CAYMAN_MPCS)
